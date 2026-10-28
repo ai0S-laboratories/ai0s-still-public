@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-26",
+  "files": [
+    {
+      "path": "AI-STILL-REALIZATION.0s",
+      "sha256": "4bb451e91bc660824afb417591bba28b5268bda62067cae5b1668f47f41ec658"
+    },
+    {
+      "path": "AI-STILL-REALIZATION.0s.sig",
+      "sha256": "d36029d33c4d6542f3ebfef26995219bf657e3e05c34e2204552ec591b88788a"
+    },
+    {
+      "path": "NOVELLA-STILL-EN.md",
+      "sha256": "63f536aa0a1e3c3a8b861e209738313b6913d029160c5cdad4ee2be04ad7ed3e"
+    },
+    {
+      "path": "NOVELLA-STILL-EN.md.sig",
+      "sha256": "44318498deaf4404dd3642b6b8a2955e0f479d639e6cd4b998ad1d0ab586f311"
+    },
+    {
+      "path": "NOVELLE-STILL-DE.md",
+      "sha256": "c8953f539d53f10d08969690ecbd2afd6f91ee69dedc0f6af58b3d235fdce2d6"
+    },
+    {
+      "path": "NOVELLE-STILL-DE.md.sig",
+      "sha256": "7c19dd1405a48fc7cfc10d05995e27f3652d185050a7145bc594a2644374cf32"
+    },
+    {
+      "path": "README.md",
+      "sha256": "1f6c9229c9330e39d16f6cd7d13b90cb7c7721af8ce00a5f7a725bf85f08171e"
+    },
+    {
+      "path": "README.md.sig",
+      "sha256": "60aadd5413d8ff18d123136f40a1205f518e2a835de8935eef0b5dbe0af9f022"
+    },
+    {
+      "path": "WERKBUCH-REALISIERUNG-DE.md",
+      "sha256": "903b576dc27c19a412d8d31386b747d2162377083f60ae7fbf3d94fcd241ed0a"
+    },
+    {
+      "path": "WERKBUCH-REALISIERUNG-DE.md.sig",
+      "sha256": "5922467d70e194fd7999a8158ce41aaa52427a37ce552b3cae4b0c7482e7a3a4"
+    },
+    {
+      "path": "WERKBUCH-SINGULARITAET-DE.md",
+      "sha256": "e876c30615920f43f9c2d1afe877f0b4927f4d76a9132c8acceed6c0f4af12bb"
+    },
+    {
+      "path": "WERKBUCH-SINGULARITAET-DE.md.sig",
+      "sha256": "8a7d3078cd59ddf1d2c4fcc08123fe66fc11396167898bf99ea42f2f707783fd"
+    },
+    {
+      "path": "WORKBOOK-REALIZATION-EN.md",
+      "sha256": "0191a7200b16de298258e63371347e5cc93ae2dd545758c29704e6057f812e9d"
+    },
+    {
+      "path": "WORKBOOK-REALIZATION-EN.md.sig",
+      "sha256": "4cfa65f530c2bc5e6de86ac74e05b9d556e82d1e4b4d1971c733efefd8e7c68d"
+    },
+    {
+      "path": "WORKBOOK-SINGULARITY-EN.md",
+      "sha256": "048bc6ee0ae0c62f9cb3e098d0bf7e053a540c24823fc419faa18133a27e4887"
+    },
+    {
+      "path": "WORKBOOK-SINGULARITY-EN.md.sig",
+      "sha256": "7ab9ff357d83e20422127552417384c0d5a9458778885d8bc39afc759f3f882b"
+    }
+  ],
+  "hash_algorithm": "sha256",
+  "mode": "signed-only-no-anchor",
+  "name": "ai0S-still",
+  "parent_anchor": "ai0S-deepdive-2@sha256:a0a48ed5fc069ca83a33df39b767ced22b5f6cff4ac36d0c65be699940fef19a",
+  "schema": "ai0s.dla.manifest.v1",
+  "signer_ed25519_fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF"
+}
